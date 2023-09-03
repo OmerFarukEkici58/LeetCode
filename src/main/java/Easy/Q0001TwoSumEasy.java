@@ -1,6 +1,6 @@
 package Easy;
 
-public class Q1TwoSumEasy {
+public class Q0001TwoSumEasy {
     public static void main(String[] args) {
         int[] nums = {2, 5, 5, 11};
         int target = 10;
