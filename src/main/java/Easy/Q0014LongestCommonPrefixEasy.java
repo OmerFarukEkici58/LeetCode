@@ -1,6 +1,6 @@
 package Easy;
 
-public class Q0014LongestCommonPrefix {
+public class Q0014LongestCommonPrefixEasy {
     public static void main(String[] args) {
         String[] strs = {"cir", "car"};
         System.out.println(longestCommonPrefix(strs));

@@ -2,7 +2,7 @@ package Easy;
 
 import java.util.Scanner;
 
-public class Q0009PalindromeNumber {
+public class Q0009PalindromeNumberEasy {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int x = input.nextInt();
